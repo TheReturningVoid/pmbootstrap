@@ -1,4 +1,4 @@
-# Kernel config based on: arch/arm/configs/(CHANGEME!)
+# Kernel config based on: arch/arm/configs/harpia_defconfig
 
 pkgname="linux-motorola-harpia"
 pkgver=3.10.49
